@@ -26,14 +26,14 @@
   thumbnailUrl: no-face.png
 - 
   id: 5
-  name: "Prof. PHAM Van Thanh"
+  name: "Professor PHAM Van Thanh"
   company: "Shizuoka University"
   bio: "TBD"
   thumbnailUrl: no-face.png
   rockstar: true
 - 
   id: 6
-  name: "Prof. IDNIN Pasya Bin Ibrahim"
+  name: "Professor IDNIN Pasya Bin Ibrahim"
   company: "The University of Aizu"
   bio: "TBD"
   thumbnailUrl: no-face.png
