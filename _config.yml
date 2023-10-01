@@ -39,7 +39,6 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "http://bit.ly/dfua-c4p"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
@@ -47,7 +46,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
 
 # Hero Block
-heroImage: "aizu.jpg"
+heroImage: "banner.jpg"
 heroTitle: "Postgraduate Forum"
 eventDate: "October 25th, 2023"
 eventPlace: "UBIC, The University of Aizu"
