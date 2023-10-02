@@ -29,7 +29,7 @@
   id: 5
   name: "Professor PHAM Van Thanh"
   company: "Shizuoka University"
-  bio: "TBD"
+  bio: "Thanh V. Pham (Member, IEEE) received the B.E., M.E., and Ph.D. degrees in computer science and engineering from the University of Aizu, Japan, in 2014, 2016, and 2019, respectively. From April 2018 to March 2020, he was a Japan Society for the Promotion of Science (JSPS) Fellow. He was a Special Postdoctoral Fellow at the School of Computer Science and Engineering, University of Aizu, from April 2020 to March 2021, and a Postdoctoral Fellow at the Department of Electrical and Computer Engineering, McMaster University, Canada, from April 2021 to February 2022. He has been an Assistant Professor with the Department of Mathematical and Systems Engineering, Shizuoka University, Japan, since March 2022. His research interests include free-space optics and visible light communications. He is a member of IEICE."
   thumbnailUrl: ThanhPham.jpg
   rockstar: true
 - 
@@ -53,9 +53,9 @@
   thumbnailUrl: no-face.png
 - 
   id: 9
-  name: "PHAN Thanh Long"
+  name: "Dr. PHAN Thanh Long"
   company: "Fujikura Ltd."
   title: "Research Engineer"
   bio: "TBD"
-  thumbnailUrl: LongPhan
+  thumbnailUrl: LongPhan.jpg
   rockstar: true
