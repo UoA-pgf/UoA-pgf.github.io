@@ -5,6 +5,7 @@
   company: "TBD"
   title: "IEEE Fellow"
   bio: "TBD"
+  rockstar: true
   thumbnailUrl: no-face.png
 - 
   id: 2
@@ -37,6 +38,7 @@
   company: "The University of Aizu"
   bio: "TBD"
   thumbnailUrl: no-face.png
+  rockstar: true
 - 
   id: 7
   name: "Student 1"
@@ -56,3 +58,4 @@
   title: "Research Engineer"
   bio: "TBD"
   thumbnailUrl: no-face.png
+  rockstar: true
