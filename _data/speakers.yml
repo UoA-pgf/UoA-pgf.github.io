@@ -1,8 +1,8 @@
 - 
   id: 1
-  name: "Keynote 1"
+  name: "IEEE Fellow"
   # surname: "Ostrowski"
-  company: "IEEE Fellow"
+  company: "TBD"
   # title: "IEEE Fellow"
   bio: "TBD"
   rockstar: true
@@ -32,6 +32,10 @@
   bio: "Thanh V. Pham (Member, IEEE) received the B.E., M.E., and Ph.D. degrees in computer science and engineering from the University of Aizu, Japan, in 2014, 2016, and 2019, respectively. From April 2018 to March 2020, he was a Japan Society for the Promotion of Science (JSPS) Fellow. He was a Special Postdoctoral Fellow at the School of Computer Science and Engineering, University of Aizu, from April 2020 to March 2021, and a Postdoctoral Fellow at the Department of Electrical and Computer Engineering, McMaster University, Canada, from April 2021 to February 2022. He has been an Assistant Professor with the Department of Mathematical and Systems Engineering, Shizuoka University, Japan, since March 2022. His research interests include free-space optics and visible light communications. He is a member of IEICE."
   thumbnailUrl: ThanhPham.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "K", title: "Keynote Speaker"}
+  social: 
+    - {name: "site", link: "https://lete143.wixsite.com/home"}
 - 
   id: 6
   name: "Professor IDNIN Pasya Bin Ibrahim"
@@ -39,6 +43,10 @@
   bio: "TBD"
   thumbnailUrl: Ibrahim.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "K", title: "Keynote Speaker"}
+  social: 
+    - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90151&lng=en"}
 - 
   id: 7
   name: "Student 1"
@@ -59,3 +67,7 @@
   bio: "TBD"
   thumbnailUrl: LongPhan.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "K", title: "Keynote Speaker"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thanhlongphan/?originalSubdomain=jp"}
