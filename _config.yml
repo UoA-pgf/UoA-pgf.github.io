@@ -97,8 +97,8 @@ mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
 venueBlockTitle: "UBIC Building"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
+venueBigImage: "ubic_1.gif"
+venueSmallImage1: "ubic_2.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Kinopalace Cinema"
