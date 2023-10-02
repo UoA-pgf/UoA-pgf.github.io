@@ -46,13 +46,16 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/blog/", text: "News"}
- - {permalink: "/schedule/", text: "Registration"}
+#  - {permalink: "/schedule/", text: "Registration"}
+ - {permalink: "/venue/", text: "Venue"}
 
 # Hero Block
 heroImage: "banner.jpg"
 heroTitle: "Postgraduate Forum"
 eventDate: "October 23rd, 2023"
 eventPlace: "UBIC, The University of Aizu"
+heroButtons:
+ - {link: "https:google.com/", text: "Register"}
 
 # About Block
 aboutTitle: "About Postgraduate Forum"
@@ -93,7 +96,7 @@ mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "UBIC Building"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
