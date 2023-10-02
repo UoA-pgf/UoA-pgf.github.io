@@ -7,6 +7,8 @@
   bio: "TBD"
   rockstar: true
   thumbnailUrl: no-face.png
+  ribbon: 
+    - {abbr: "K", title: "Keynote Speaker"}
 - 
   id: 2
   name: "PhD 1"
