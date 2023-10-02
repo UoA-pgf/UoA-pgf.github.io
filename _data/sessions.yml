@@ -19,13 +19,13 @@
   service: true
 -
   id: 001
-  title: "TBD"
+  title: "Research Trending"
   description: "TBD"
   subtype: workshop
   speakers: [1]
 -
   id: 002
-  title: "TBD"
+  title: "Invited PhD Talk"
   description: "TBD"
   subtype: presentation
   speakers: [2]
@@ -35,13 +35,13 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "TBD"
+  title: "Invited PhD Talk"
   description: "TBD"
   subtype: presentation
   speakers: [3]
 -
   id: 004
-  title: "TBD"
+  title: "Invited PhD Talk"
   description: "TBD"
   subtype: keynote
   speakers: [4]
@@ -59,13 +59,13 @@
   speakers: [6]
 -
   id: 007
-  title: "TBD"
+  title: "Student Presentation"
   description: "TBD"
   subtype: keynote
   speakers: [7]
 -
   id: 008
-  title: "TBD"
+  title: "Student Presentation"
   description: "TBD"
   subtype: keynote
   speakers: [8]
