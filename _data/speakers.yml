@@ -30,14 +30,14 @@
   name: "Professor PHAM Van Thanh"
   company: "Shizuoka University"
   bio: "TBD"
-  thumbnailUrl: no-face.png
+  thumbnailUrl: ThanhPham.jpg
   rockstar: true
 - 
   id: 6
   name: "Professor IDNIN Pasya Bin Ibrahim"
   company: "The University of Aizu"
   bio: "TBD"
-  thumbnailUrl: no-face.png
+  thumbnailUrl: Ibrahim.jpg
   rockstar: true
 - 
   id: 7
@@ -57,5 +57,5 @@
   company: "Fujikura Ltd."
   title: "Research Engineer"
   bio: "TBD"
-  thumbnailUrl: no-face.png
+  thumbnailUrl: LongPhan
   rockstar: true
