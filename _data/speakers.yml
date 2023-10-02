@@ -2,8 +2,8 @@
   id: 1
   name: "Keynote 1"
   # surname: "Ostrowski"
-  company: "TBD"
-  title: "IEEE Fellow"
+  company: "IEEE Fellow"
+  # title: "IEEE Fellow"
   bio: "TBD"
   rockstar: true
   thumbnailUrl: no-face.png
