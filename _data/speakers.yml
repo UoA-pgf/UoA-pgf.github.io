@@ -1,12 +1,12 @@
 - 
   id: 1
-  name: "IEEE Fellow"
+  name: "Professor Yi Pan"
   # surname: "Ostrowski"
-  company: "TBD"
+  company: "Chinese Academy of Sciences"
   # title: "IEEE Fellow"
-  bio: "TBD"
+  bio: "Yi Pan (Senior Member, IEEE) received the B.Eng. and M.Eng. degrees in computer engineering from Tsinghua University, Beijing, China, in 1982 and 1984, respectively, and the Ph.D. degree in computer science from the University of Pittsburgh, Pittsburgh, PA, USA, in 1991. He is currently a Chair Professor and the Dean of the College of Computer Science and Control Engineering, Shenzhen Institute of Advanced Technologies, Chinese Academy of Sciences and Regents' Professor Emeritus, Georgia State University, Atlanta, GA, USA. From 2005 to 2020, he was the Chair of Computer Science Department, Georgia State University. During 2013–2017, he was an Interim Associate Dean and the Chair of Biology Department. He joined Georgia State University in 2000, was promoted to a Full Professor in 2004, named a Distinguished University Professor in 2013 and designated a Regents' Professor (the highest recognition given to a faculty member by the University System of Georgia) in 2015. His profile has been featured as a distinguished alumnus with the Tsinghua Alumni Newsletter and University of Pittsburgh CS Alumni Newsletter."
   rockstar: true
-  thumbnailUrl: no-face.png
+  thumbnailUrl: YiPan.jpg
   ribbon: 
     - {abbr: "K", title: "Keynote Speaker"}
 - 
