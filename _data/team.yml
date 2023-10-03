@@ -12,21 +12,21 @@
   name: "Professor PENG Li"
   # surname: "Zasadnyy"
   # title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: Pengli.png
   gchair: true 
   social: 
     - {name: "site", link: "https://u-aizu.ac.jp/~pengli/index.html"}
 - 
   id: 2
   name: "Professor LE Doan Hoang"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: HoangLe.jpeg
   oc: true
   social: 
     - {name: "site", link: "https://sites.google.com/view/hoangledoan"}
 - 
   id: 3
   name: "Professor DANG Nam Khanh"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: Khanh_N_DANG.jpg
   gcc: true
   social: 
     - {name: "site", link: "https://u-aizu.ac.jp/~khanh/"}
