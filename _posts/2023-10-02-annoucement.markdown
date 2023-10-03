@@ -7,7 +7,7 @@ isStaticPost: false
 Postgraduate Forum is back. This year's event will be held on the 23rd of October in the UBIC building, the University of Aizu.
 
 #### Important Deadlines
-* __Oct. 7th__: Registration Deadline
+* __Oct. 7th__: Registration deadline
 * __Oct. 14th__: Title/abstract submission
 * __Oct. 20th__: Slide submission
 

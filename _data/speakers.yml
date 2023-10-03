@@ -1,10 +1,10 @@
 - 
   id: 1
-  name: "Professor Yi Pan"
+  name: "Professor PAN Yi"
   # surname: "Ostrowski"
-  company: "Chinese Academy of Sciences"
+  company: "Regents' Professor Emeritus, Georgia State University"
   # title: "IEEE Fellow"
-  bio: "Yi Pan (Senior Member, IEEE) received the B.Eng. and M.Eng. degrees in computer engineering from Tsinghua University, Beijing, China, in 1982 and 1984, respectively, and the Ph.D. degree in computer science from the University of Pittsburgh, Pittsburgh, PA, USA, in 1991. He is currently a Chair Professor and the Dean of the College of Computer Science and Control Engineering, Shenzhen Institute of Advanced Technologies, Chinese Academy of Sciences and Regents' Professor Emeritus, Georgia State University, Atlanta, GA, USA. From 2005 to 2020, he was the Chair of Computer Science Department, Georgia State University. During 2013–2017, he was an Interim Associate Dean and the Chair of Biology Department. He joined Georgia State University in 2000, was promoted to a Full Professor in 2004, named a Distinguished University Professor in 2013 and designated a Regents' Professor (the highest recognition given to a faculty member by the University System of Georgia) in 2015. His profile has been featured as a distinguished alumnus with the Tsinghua Alumni Newsletter and University of Pittsburgh CS Alumni Newsletter."
+  bio: "Yi Pan received the B.Eng. and M.Eng. degrees in computer engineering from Tsinghua University, Beijing, China, in 1982 and 1984, respectively, and the Ph.D. degree in computer science from the University of Pittsburgh, Pittsburgh, PA, USA, in 1991. He is currently a Chair Professor and the Dean of the College of Computer Science and Control Engineering, Shenzhen Institute of Advanced Technologies, Chinese Academy of Sciences and Regents' Professor Emeritus, Georgia State University, Atlanta, GA, USA. From 2005 to 2020, he was the Chair of Computer Science Department, Georgia State University. During 2013–2017, he was an Interim Associate Dean and the Chair of Biology Department. He joined Georgia State University in 2000, was promoted to a Full Professor in 2004, named a Distinguished University Professor in 2013 and designated a Regents' Professor (the highest recognition given to a faculty member by the University System of Georgia) in 2015. His profile has been featured as a distinguished alumnus with the Tsinghua Alumni Newsletter and University of Pittsburgh CS Alumni Newsletter."
   rockstar: true
   thumbnailUrl: YiPan.jpg
   ribbon: 
@@ -31,7 +31,7 @@
   id: 5
   name: "Assistant Professor PHAM Van Thanh"
   company: "Shizuoka University"
-  bio: "Thanh V. Pham (Member, IEEE) received the B.E., M.E., and Ph.D. degrees in computer science and engineering from the University of Aizu, Japan, in 2014, 2016, and 2019, respectively. From April 2018 to March 2020, he was a Japan Society for the Promotion of Science (JSPS) Fellow. He was a Special Postdoctoral Fellow at the School of Computer Science and Engineering, University of Aizu, from April 2020 to March 2021, and a Postdoctoral Fellow at the Department of Electrical and Computer Engineering, McMaster University, Canada, from April 2021 to February 2022. He has been an Assistant Professor with the Department of Mathematical and Systems Engineering, Shizuoka University, Japan, since March 2022. His research interests include free-space optics and visible light communications. He is a member of IEICE."
+  bio: "Thanh V. Pham received the B.E., M.E., and Ph.D. degrees in computer science and engineering from the University of Aizu, Japan, in 2014, 2016, and 2019, respectively. From April 2018 to March 2020, he was a Japan Society for the Promotion of Science (JSPS) Fellow. He was a Special Postdoctoral Fellow at the School of Computer Science and Engineering, University of Aizu, from April 2020 to March 2021, and a Postdoctoral Fellow at the Department of Electrical and Computer Engineering, McMaster University, Canada, from April 2021 to February 2022. He has been an Assistant Professor with the Department of Mathematical and Systems Engineering, Shizuoka University, Japan, since March 2022. His research interests include free-space optics and visible light communications. He is a member of IEICE."
   thumbnailUrl: ThanhPham.jpg
   rockstar: true
   ribbon: 
