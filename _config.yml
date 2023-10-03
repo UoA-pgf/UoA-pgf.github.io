@@ -97,12 +97,12 @@ mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
 venueBlockTitle: "UBIC Building"
-venueBigImage: "ubic_1.gif"
+venueBigImage: "img_campus_map02.png"
 venueSmallImage1: "ubic_2.jpg"
-venueSmallImage2: "venue_2.jpg"
+venueSmallImage2: "ubic_3.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["〒965-0006 Fukushima, Aizuwakamatsu, Itsukimachi Oaza Tsuruga, Kamiiawase−90 内 会津大学 産学イノベーションセンタ", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "〒965-0006"
+venueFeatures: ["Fukushima, Aizuwakamatsu, Itsukimachi Oaza Tsuruga, Kamiiawase−９０"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
