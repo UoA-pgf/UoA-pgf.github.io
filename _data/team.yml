@@ -9,7 +9,7 @@
     - {name: "site", link: "https://u-aizu.ac.jp/labs/ce-cc/"}
 - 
   id: 1
-  name: "Professor PENG Li"
+  name: "PENG Li"
   # surname: "Zasadnyy"
   # title: "Designer and Web Developer"
   thumbnailUrl: Pengli.png
@@ -18,14 +18,14 @@
     - {name: "site", link: "https://u-aizu.ac.jp/~pengli/index.html"}
 - 
   id: 2
-  name: "Professor LE Doan Hoang"
+  name: "LE Doan Hoang"
   thumbnailUrl: HoangLe.jpeg
   oc: true
   social: 
     - {name: "site", link: "https://sites.google.com/view/hoangledoan"}
 - 
   id: 3
-  name: "Professor DANG Nam Khanh"
+  name: "DANG Nam Khanh"
   thumbnailUrl: Khanh_N_DANG.jpg
   gcc: true
   social: 
