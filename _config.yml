@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/team/", text: "Organizer"}
+ - {permalink: "/team/", text: "Organizers"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/blog/", text: "News"}
@@ -111,7 +111,7 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Sponsors"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
