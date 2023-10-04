@@ -11,5 +11,6 @@ Postgraduate Forum is back. This year's event will be held on the 23rd of Octobe
 * __Oct. 14th__: Title/abstract submission
 * __Oct. 20th__: Slide submission
 
+![MarineGEO circle logo](/img/poster/UoA_Postgraduate_Poster.png "MarineGEO logo")
 
 If you have any questions, please contact us via [hoangle@u-aizu.ac.jp ](mailto:hoangle@u-aizu.ac.jp )
