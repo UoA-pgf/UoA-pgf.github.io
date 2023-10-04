@@ -43,11 +43,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "Organizers"}
+ - {permalink: "/blog/call-for-registration", text: "Call for Registration"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/venue/", text: "Venue"}
- - {permalink: "/blog/call-for-registration", text: "Call for Registration"}
 
 # Hero Block
 heroImage: "banner_1.jpg"
