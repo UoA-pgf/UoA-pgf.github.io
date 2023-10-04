@@ -50,7 +50,7 @@ navigationLinks:
  - {permalink: "/venue/", text: "Venue"}
 
 # Hero Block
-heroImage: "banner.jpg"
+heroImage: "banner_1.jpg"
 heroTitle: "Postgraduate Forum"
 eventDate: "October 23rd, 2023"
 eventPlace: "UBIC, The University of Aizu"
