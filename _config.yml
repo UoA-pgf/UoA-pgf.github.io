@@ -24,9 +24,9 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "GDG Lviv"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerEmail: "hoangle@u-aizu.ac.jp"
+organizerLogo: "/img/seo/aizuLogo30.png"
+organizerLink: "https://sites.google.com/view/hoangledoan"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -131,7 +131,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:hoangle@u-aizu.ac.jp", text: "hoangle@u-aizu.ac.jp "}
+   - {link: "mailto:hoangle@u-aizu.ac.jp", text: "hoangle@u-aizu.ac.jp"}
 
 
 # Blog
