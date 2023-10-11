@@ -11,22 +11,22 @@
     - {abbr: "K", title: "Keynote Speaker"}
 - 
   id: 2
-  name: "PhD 1"
+  name: "Dr. AKILA Siriweera"
   company: "The University of Aizu"
-  bio: "TBD"
-  thumbnailUrl: no-face.png
+  bio: "Akila Siriweera received a B.Sc. from the University of Peradeniya, Sri Lanka. Next M.Sc. and Ph.D. in computer science and engineering from the University of Aizu, Japan. He has been working as a post-doctoral researcher in the Robotics Engineering Laboratory at the University of Aizu. His current research interests include system of systems modeling, AutoBDA, and Web 3.0. He received awards for his work in industry and academia."
+  thumbnailUrl: Siriweera.jfif
 - 
   id: 3
-  name: "PhD 2"
+  name: "Fahao Chen"
   company: "The University of Aizu"
-  bio: "TBD"
-  thumbnailUrl: no-face.png
+  bio: "Fahao Chen is currently working toward the PhD degree with the Graduate School of Computer Science and Engineering, The University of Aizu, Japan. His research interests include cloud or edge computing and distributed machine learning systems."
+  thumbnailUrl: FahaoChen.gif
 - 
   id: 4
-  name: "PhD 3"
+  name: "Dr. Md. Maniruzzaman"
   company: "The University of Aizu"
-  bio: "TBD"
-  thumbnailUrl: no-face.png
+  bio: "Md. Maniruzzaman received the B.Sc., M.Sc., and M.Phil. degrees in statistics from the Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh, in 2013, 2014, and 2021, respectively. He became a Lecturer and an Assistant Professor with the Statistics Discipline, Khulna University, Khulna, Bangladesh, in September 2018 and November 2020, respectively. Currently, he is a Ph.D. Fellow with the Pattern Processing Laboratory, School of Computer Science and Engineering, The University of Aizu, Japan, under the direct supervision of Dr. Jungpil Shin. He has coauthored more than 40 papers published in widely cited journals and conferences. His research interests include bioinformatics, artificial intelligence, pattern recognition, medical image, signal processing, machine learning, data mining, and big data analysis."
+  thumbnailUrl: Maniruzzaman.png
 - 
   id: 5
   name: "Assistant Professor PHAM Van Thanh"
@@ -42,7 +42,7 @@
   id: 6
   name: "Associate Professor IDNIN Pasya Bin Ibrahim"
   company: "The University of Aizu"
-  bio: "TBD"
+  bio: "IDNIN Pasya Bin Ibrahim is the Associate Professor with the School of Computer Science and Engineering, the University of Aizu, since April 2023."
   thumbnailUrl: Ibrahim.jpg
   rockstar: true
   ribbon: 

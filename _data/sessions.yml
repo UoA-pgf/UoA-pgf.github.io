@@ -25,7 +25,7 @@
   speakers: [1]
 -
   id: 002
-  title: "Invited PhD Talk"
+  title: "Invited PhD/Postdoc Talk"
   description: "TBD"
   subtype: presentation
   speakers: [2]
@@ -35,13 +35,13 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Invited PhD Talk"
+  title: "Invited PhD/Postdoc Talk"
   description: "TBD"
   subtype: presentation
   speakers: [3]
 -
   id: 004
-  title: "Invited PhD Talk"
+  title: "Invited PhD/Postdoc Talk"
   description: "TBD"
   subtype: keynote
   speakers: [4]
