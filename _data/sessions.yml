@@ -25,7 +25,7 @@
   speakers: [1]
 -
   id: 002
-  title: "Invited PhD/Postdoc Talk"
+  title: "Big Data and Web 3.0: Shaping Autonomous Insights for Industry 4.0 and Society 5.0"
   description: "TBD"
   subtype: presentation
   speakers: [2]
@@ -75,3 +75,51 @@
   description: "TBD"
   subtype: keynote
   speakers: [9]
+-
+  id: 010
+  title: "TCB: Accelerating Transformer Inference Services with Request Concatenation"
+  description: "TBD"
+  subtype: keynote
+  speakers: [10]
+-
+  id: 011
+  title: "Knowledge Experience based System for Museum Visitor Analysis"
+  description: "TBD"
+  subtype: keynote
+  speakers: [11]
+-
+  id: 012
+  title: "Aligning Image and Text Under Stringent Artifact Conditions"
+  description: "TBD"
+  subtype: keynote
+  speakers: [12]
+-
+  id: 013
+  title: "Performance of IR-HARQ-based RC-LDPC Code Extension in Optical Satellite Systems"
+  description: "TBD"
+  subtype: keynote
+  speakers: [13]
+-
+  id: 014
+  title: "Exploring Image Sparsity in Offloading With Mask-recover Scheme"
+  description: "TBD"
+  subtype: keynote
+  speakers: [14]
+-
+  id: 015
+  title: "Power-aware 3D-stacking-memory Neuromorphic Architecture with Layer-wise Voltage Scaling"
+  description: "TBD"
+  subtype: keynote
+  speakers: [15]
+-
+  id: 016
+  title: "Quality assessment of Neural Radiance Fields"
+  description: "TBD"
+  subtype: keynote
+  speakers: [16]
+-
+  id: 017
+  title: "Training NeRFs to Model Lighting Variation"
+  description: "TBD"
+  subtype: keynote
+  speakers: [17]

@@ -73,3 +73,51 @@
     - {abbr: "K", title: "Keynote Speaker"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/thanhlongphan/?originalSubdomain=jp"}
+- 
+  id: 10
+  name: "Boqian Fu"
+  company: "The University of Aizu"
+  bio: "TBD"
+  thumbnailUrl: no-face.png
+- 
+  id: 11
+  name: "Eri Miyaoka & Atsuki Yanada"
+  company: "The University of Aizu"
+  bio: "TBD"
+  thumbnailUrl: no-face.png  
+- 
+  id: 12
+  name: "Onuoha Chibuike Martins "
+  company: "The University of Aizu"
+  bio: "TBD"
+  thumbnailUrl: no-face.png  
+- 
+  id: 13
+  name: "Nguyen Trong Cuong"
+  company: "The University of Aizu"
+  bio: "TBD"
+  thumbnailUrl: no-face.png  
+- 
+  id: 14
+  name: "Tao Liu"
+  company: "The University of Aizu"
+  bio: "TBD"
+  thumbnailUrl: no-face.png
+- 
+  id: 15
+  name: "Nguyen Ngo Doanh"
+  company: "The University of Aizu"
+  bio: "TBD"
+  thumbnailUrl: no-face.png  
+- 
+  id: 16
+  name: "Luo Shihao"
+  company: "The University of Aizu"
+  bio: "TBD"
+  thumbnailUrl: no-face.png
+- 
+  id: 17
+  name: "Jean Atsumi Flaherty"
+  company: "The University of Aizu"
+  bio: "TBD"
+  thumbnailUrl: no-face.png  
