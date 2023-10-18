@@ -23,7 +23,7 @@
   thumbnailUrl: FahaoChen.gif
 - 
   id: 4
-  name: "Dr. Md. Maniruzzaman"
+  name: "Dr. Maniruzzaman"
   company: "The University of Aizu"
   bio: "Md. Maniruzzaman received the B.Sc., M.Sc., and M.Phil. degrees in statistics from the Department of Statistics, University of Rajshahi, Rajshahi, Bangladesh, in 2013, 2014, and 2021, respectively. He became a Lecturer and an Assistant Professor with the Statistics Discipline, Khulna University, Khulna, Bangladesh, in September 2018 and November 2020, respectively. Currently, he is a Ph.D. Fellow with the Pattern Processing Laboratory, School of Computer Science and Engineering, The University of Aizu, Japan, under the direct supervision of Dr. Jungpil Shin. He has coauthored more than 40 papers published in widely cited journals and conferences. His research interests include bioinformatics, artificial intelligence, pattern recognition, medical image, signal processing, machine learning, data mining, and big data analysis."
   thumbnailUrl: Maniruzzaman.png
@@ -53,13 +53,13 @@
   id: 7
   name: "Student 1"
   company: "The University of Aizu"
-  bio: "TBD"
+  # bio: "TBD"
   thumbnailUrl: no-face.png
 - 
   id: 8
   name: "Student 2"
   company: "The University of Aizu"
-  bio: "TBD"
+  # bio: "TBD"
   thumbnailUrl: no-face.png
 - 
   id: 9
@@ -77,47 +77,47 @@
   id: 10
   name: "Boqian Fu"
   company: "The University of Aizu"
-  bio: "TBD"
+  # bio: "TBD"
   thumbnailUrl: no-face.png
 - 
   id: 11
   name: "Eri Miyaoka & Atsuki Yanada"
   company: "The University of Aizu"
-  bio: "TBD"
+  # bio: "TBD"
   thumbnailUrl: no-face.png  
 - 
   id: 12
   name: "Onuoha Chibuike Martins "
   company: "The University of Aizu"
-  bio: "TBD"
+  # bio: "TBD"
   thumbnailUrl: no-face.png  
 - 
   id: 13
   name: "Nguyen Trong Cuong"
   company: "The University of Aizu"
-  bio: "TBD"
+  # bio: "TBD"
   thumbnailUrl: no-face.png  
 - 
   id: 14
   name: "Tao Liu"
   company: "The University of Aizu"
-  bio: "TBD"
+  # bio: "TBD"
   thumbnailUrl: no-face.png
 - 
   id: 15
   name: "Nguyen Ngo Doanh"
   company: "The University of Aizu"
-  bio: "TBD"
+  # bio: "TBD"
   thumbnailUrl: no-face.png  
 - 
   id: 16
   name: "Luo Shihao"
   company: "The University of Aizu"
-  bio: "TBD"
+  # bio: "TBD"
   thumbnailUrl: no-face.png
 - 
   id: 17
   name: "Jean Atsumi Flaherty"
   company: "The University of Aizu"
-  bio: "TBD"
+  # bio: "TBD"
   thumbnailUrl: no-face.png  
