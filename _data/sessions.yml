@@ -41,7 +41,7 @@
   speakers: [3]
 -
   id: 004
-  title: "Invited PhD/Postdoc Talk"
+  title: "Efficient Feature Extraction and Selection based ADHD Detection using Machine Learning Approaches"
   # description: "TBD"
   subtype: keynote
   speakers: [4]
