@@ -26,7 +26,7 @@
 -
   id: 002
   title: "Big Data and Web 3.0: Shaping Autonomous Insights for Industry 4.0 and Society 5.0"
-  # description: "TBD"
+  description: "This presentation introduces and explores the intersection of Big Data and Web 3.0, highlighting their transformative roles in Industry 4.0 and Society 5.0. We'll discuss how Web 3.0's decentralized, user-empowered framework complements Big Data's analytical prowess, together driving innovation in smart industries and societies. The focus will be on the symbiotic relationship between these technologies, emphasizing autonomous decision-making, personalized experiences, and enhanced privacy. We'll delve into opportunities presented by this synergy, examining current contributions and envisioning future expansions that could redefine industrial efficiency and societal well-being. We discover how the fusion of Big Data and Web 3.0 is not just shaping autonomous systems and insights but is also pivotal in building a more intuitive and equitable future."
   subtype: presentation
   speakers: [2]
   # language: en
