@@ -35,7 +35,7 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Invited PhD/Postdoc Talk"
+  title: "Efficient Distributed Machine Learning System on Heterogeneous GPUs"
   # description: "TBD"
   subtype: presentation
   speakers: [3]
@@ -95,7 +95,7 @@
   speakers: [12]
 -
   id: 013
-  title: "Performance of IR-HARQ-based RC-LDPC Code Extension in Optical Satellite Systems"
+  title: "Design of Retransmission Protocol Based on Low-Density Parity Check Code for Optical Satellite Systems"
   # description: "TBD"
   subtype: keynote
   speakers: [13]
