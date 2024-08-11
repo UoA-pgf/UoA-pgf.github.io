@@ -48,6 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/venue/", text: "Venue"}
+ - {permalink: "/pastevent/", text: "Previous Events"}
 
 # Hero Block
 heroImage: "banner_3.jpg"
