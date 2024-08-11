@@ -11,8 +11,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "UoA Postgraduate Forum 2024"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "hoangle@u-aizu.ac.jp"
+description: "Postgraduate Forum 2024, the University of Aizu"
 baseurl: ""
 url: "http://uoa-pgf.github.io"
 permalink: "/blog/:title"
@@ -43,19 +43,19 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "Organizers"}
- - {permalink: "/blog/call-for-registration", text: "Call for Registration"}
+#  - {permalink: "/blog/call-for-registration", text: "Call for Registration"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/blog/", text: "News"}
  - {permalink: "/venue/", text: "Venue"}
 
 # Hero Block
-heroImage: "banner_1.jpg"
-heroTitle: "Postgraduate Forum"
-eventDate: "October 23rd, 2023"
+heroImage: "banner_3.jpg"
+heroTitle: "Postgraduate Forum 2024"
+eventDate: "October 23, 2024"
 eventPlace: "UBIC, The University of Aizu"
-heroButtons:
- - {link: "https://forms.gle/zLAYp5hko2274ros8", text: "Register"}
+# heroButtons:
+#  - {link: "https://forms.gle/zLAYp5hko2274ros8", text: "Register"}
 
 # About Block
 aboutTitle: "About Postgraduate Forum"
@@ -75,7 +75,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "Keynote speakers"
 rockstarSpeakersButtonText: "Details"
 
@@ -102,7 +102,7 @@ venueSmallImage1: "ubic_2.jpg"
 venueSmallImage2: "ubic_3.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "〒965-0006"
-venueFeatures: ["Fukushima, Aizuwakamatsu, Itsukimachi Oaza Tsuruga, Kamiiawase−９０"]
+venueFeatures: ["Fukushima, Aizuwakamatsu, Itsukimachi Oaza Tsuruga, Kamiiawase-90"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -132,7 +132,6 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:hoangle@u-aizu.ac.jp", text: "hoangle@u-aizu.ac.jp"}
-
 
 # Blog
 blogTitle: "Latest news"

@@ -9,27 +9,32 @@
     - {name: "site", link: "https://u-aizu.ac.jp/labs/ce-cc/"}
 - 
   id: 1
-  name: "PENG Li"
-  # surname: "Zasadnyy"
-  # title: "Designer and Web Developer"
-  thumbnailUrl: Pengli.png
-  gchair: true 
+  name: "Prof. Rage Uday Kiran"
+  thumbnailUrl: uday.jpeg
+  oc: true 
   social: 
-    - {name: "site", link: "https://u-aizu.ac.jp/~pengli/index.html"}
+    - {name: "site", link: "https://u-aizu.ac.jp/~udayrage/"}
 - 
   id: 2
-  name: "LE Doan Hoang"
+  name: "Prof. Le Doan Hoang"
   thumbnailUrl: HoangLe.jpeg
   oc: true
   social: 
-    - {name: "site", link: "https://sites.google.com/view/hoangledoan"}
+    - {name: "site", link: "https://u-aizu.ac.jp/~hoangle/"}
 - 
   id: 3
-  name: "DANG Nam Khanh"
-  thumbnailUrl: Khanh_N_DANG.jpg
-  gcc: true
+  name: "Prof. Akila Siriweera"
+  thumbnailUrl: Siriweera.jfif
+  oc: true
   social: 
-    - {name: "site", link: "https://u-aizu.ac.jp/~khanh/"}
+    - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90161&lng=en"}
+- 
+  id: 4
+  name: "Prof. Saxena Deepika"
+  thumbnailUrl: deepika.jpg
+  oc: true
+  social: 
+    - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90155&lng=en"}
 - 
   id: 4
   name: "NGUYEN Cuong"

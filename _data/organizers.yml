@@ -1,7 +1,7 @@
 - 
   group: "Sponsors"
   elements: 
-    - {name: "The University of Aizu", description: "The University of Aizu", link: "https://u-aizu.ac.jp/", imageUrl: "uoa-logo.jpg"}
+    - {name: "The University of Aizu", description: "The University of Aizu", link: "https://u-aizu.ac.jp/", imageUrl: "UoA_logo.png"}
 # - 
 #   group: "Co-organizers"
 #   elements: 

@@ -1,17 +1,17 @@
 - 
-  date: "2014-10-23"
-  dateReadable: "October 23rd, 2023"
+  date: "2024-10-23"
+  dateReadable: "October 23rd, 2024"
   tracks: 
     - {title: "Activity", color: "#90be4e"}
   timeslots: 
     - {
-    	startTime: "08:45",
+    	startTime: "08:30",
     	# endTime: "10:45",
     	sessionIds: [309]
     }
     - {
-    	startTime: "09:00",
-    	endTime: "09:45",
+    	startTime: "08:45",
+    	endTime: "09:30",
     	sessionIds: [001]
     }
     - {
