@@ -15,7 +15,13 @@ Prof. Lin is the guest editor/an associate editor of several IEEE/ACM journals."
   id: 2
   name: "Mr. Do Ba Duc"
   company: "Founder of Tokyo Techies & Tokyo Tech Lab "
-  bio: ""
+  bio: "Mr. Do Ba Duc is the founder of Tokyo Techies Corp - a one-stop IT consulting firm that focuses on Data Science & AI, Cybersecurity, Robotics, 
+  and Software Development technologies. He is also the founder of Tokyo Tech Lab, an IT firm that aims to secure more talented IT resources and provides 
+  enterprise customers IT services with high agility and quality from outside Japan. In his previous jobs at Rakuten Inc. and Line Corp., he worked on 
+  many back-office services and was the lead front-end engineer in charge of core EC mobile apps. Duc was a senior product manager, project manager, and 
+  cloud architect at Softbank Business Development Unit, in charge of technical due diligence for investment projects, cloud product UX enhancement, 
+  quality control, and product roadmap management. He was also the product section manager at SB Cloud (a joint venture of SoftBank and Alibaba Cloud), 
+  a key person who largely contributed to the successful launch of Alibaba Cloud in Japan. "
   thumbnailUrl: Do_Ba_Duc.jpg
   rockstar: true
   ribbon: 
@@ -49,7 +55,10 @@ His research interests include multimedia communications, video streaming, multi
   id: 5
   name: "Prof. Viglietta Giovanni"
   company: "The University of Aizu "
-  bio: ""
+  bio: "Prof. Viglietta Giovanni is currently an Associate Professor at the School of Computer Science and Engineering at the University of Aizu (UoA), 
+  Japan. He received Master's and Ph.D. degrees in computer science at the University of Pisa, Italy. After that, he worked as a postdoctoral researcher 
+  at Carleton University, Ottawa, Canada, and ETH Zurich, Switzerland. In 2018, Dr. Viglietta joined the faculty of the Japan Advanced Institute of 
+  Science and Technology (JAIST), Japan. His research interests include distributed computing, computational geometry, and combinatorial game theory."
   thumbnailUrl: Giovanni.jpg
   rockstar: true
   ribbon: 

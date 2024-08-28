@@ -55,13 +55,13 @@ heroImage: "banner_3.jpg"
 heroTitle: "Postgraduate Forum 2024"
 eventDate: "October 23, 2024"
 eventPlace: "UBIC, The University of Aizu"
-# heroButtons:
-#  - {link: "https://forms.gle/zLAYp5hko2274ros8", text: "Register"}
+heroButtons:
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeojhW778312QfYe5oqVWHz6PvrMHNODpw4FoT47fkAUlJaxA/viewform?usp=pp_url", text: "Register"}
 
 # About Block
 aboutTitle: "About Postgraduate Forum"
 aboutBlock:
-- {text: "The Postgraduate Forum seeks to provide a friendly, supportive, and constructive environment where postgraduate students can explore and develop their research interests in an interdisciplinary workshop guided by a panel of experienced researchers. The Postgraduate Forum offers an opportunity to share experiences with other postgraduate students and meet with accomplished international researchers and obtain feedback from them." }
+- {text: "The UoA Postgraduate Forum provides a friendly and supportive platform where postgraduate students can seek guidance, receive orientation, and discuss career development with accomplished and experienced researchers. Moreover, the forum offers an opportunity where students at the University of Aizu can connect, showcase, and exchange their research findings." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
