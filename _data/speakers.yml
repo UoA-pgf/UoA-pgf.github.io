@@ -40,19 +40,19 @@ His research interests include multimedia communications, video streaming, multi
     - {abbr: "K", title: "Keynote Speaker"}
   social: 
     - {name: "site", link: "https://sites.google.com/view/ducnguyen012/"}
+# - 
+#   id: 4
+#   name: "Dr. Md. Rashedul Islam"
+#   company: "Chowagiken Corp., Japan"
+#   bio: "Dr. Md. Rashedul Islam received a B.Sc. degree in computer science and engineering from the University Rajshahi, Rajshahi, Bangladesh, in 2006, an M.Sc. degree in informatics from the Högskolan i Borås (University of Boras), Boras, Sweden, in 2011, and a Ph.D. degree in electrical, electronic, and computer engineering at the University of Ulsan, Ulsan, South Korea, in 2016. He is currently working as a Lead Researcher of Computer Vision and Lead of Overseas AI Development Group, Chowagiken Corp., Japan.  His research areas are Computer Vision, Machine learning, deep learning, AI, Signal & Image processing, HCI, health informatics, Bearing fault diagnosis, and others."
+#   thumbnailUrl: Md_Rashedul_Islam.jpg
+#   rockstar: true
+#   ribbon: 
+#     - {abbr: "K", title: "Keynote Speaker"}
+#   social: 
+#     - {name: "site", link: "https://www.rashedul.info/"}
 - 
   id: 4
-  name: "Dr. Md. Rashedul Islam"
-  company: "Chowagiken Corp., Japan"
-  bio: "Dr. Md. Rashedul Islam received a B.Sc. degree in computer science and engineering from the University Rajshahi, Rajshahi, Bangladesh, in 2006, an M.Sc. degree in informatics from the Högskolan i Borås (University of Boras), Boras, Sweden, in 2011, and a Ph.D. degree in electrical, electronic, and computer engineering at the University of Ulsan, Ulsan, South Korea, in 2016. He is currently working as a Lead Researcher of Computer Vision and Lead of Overseas AI Development Group, Chowagiken Corp., Japan.  His research areas are Computer Vision, Machine learning, deep learning, AI, Signal & Image processing, HCI, health informatics, Bearing fault diagnosis, and others."
-  thumbnailUrl: Md_Rashedul_Islam.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "K", title: "Keynote Speaker"}
-  social: 
-    - {name: "site", link: "https://www.rashedul.info/"}
-- 
-  id: 5
   name: "Prof. Viglietta Giovanni"
   company: "The University of Aizu "
   bio: "Prof. Viglietta Giovanni is currently an Associate Professor at the School of Computer Science and Engineering at the University of Aizu (UoA), 

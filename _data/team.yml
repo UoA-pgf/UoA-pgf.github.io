@@ -36,32 +36,50 @@
   social: 
     - {name: "site", link: "https://u-aizu.ac.jp/research/faculty/detail?cd=90155&lng=en"}
 - 
-  id: 4
-  name: "NGUYEN Cuong"
-  title: "Website"
-  thumbnailUrl: no-face.png
-  ocm: true
-- 
   id: 5
-  name: "NGUYEN Tinh"
-  title: "Registration"
-  thumbnailUrl: no-face.png
-  ocm: true
+  name: "Dr. ABU Saleh Musa Miah"
+  # title: "Website"
+  thumbnailUrl: Musa.jpg
+  oc: true
 - 
   id: 6
-  name: "NGUYEN Doanh"
-  title: "Student Session Chair"
+  name: "Dr. LI Tianhui"
+  # title: "Website"
   thumbnailUrl: no-face.png
-  ocm: true
+  oc: true
 - 
   id: 7
-  name: "CHEN Fahao"
-  title: "Publicity Chair"
-  thumbnailUrl: no-face.png
-  ocm: true
+  name: "Md Faizul Ibne Amin"
+  # title: "Website"
+  thumbnailUrl: Amin.png
+  oc: true
 - 
   id: 8
-  name: "LIU Tao"
-  title: "Secretary"
+  name: "NGUYEN Trong Cuong"
+  title: "Website"
   thumbnailUrl: no-face.png
-  ocm: true
+  oc: true
+- 
+  id: 9
+  name: "NGUYEN Van Tinh"
+  # title: "Registration"
+  thumbnailUrl: no-face.png
+  oc: true
+# - 
+#   id: 6
+#   name: "NGUYEN Doanh"
+#   title: "Student Session Chair"
+#   thumbnailUrl: no-face.png
+#   ocm: true
+# - 
+#   id: 7
+#   name: "CHEN Fahao"
+#   title: "Publicity Chair"
+#   thumbnailUrl: no-face.png
+#   ocm: true
+# - 
+#   id: 8
+#   name: "LIU Tao"
+#   title: "Secretary"
+#   thumbnailUrl: no-face.png
+#   ocm: true
