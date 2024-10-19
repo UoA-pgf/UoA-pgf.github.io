@@ -1,11 +1,11 @@
 -
   id: 309
   title: "Opening"
-  service: true
+  speakers: [101]
 -
   id: 308
   title: "Closing"
-  service: true
+  speakers: [102]
 -
   id: 307
   title: "Coffee Break"
@@ -16,21 +16,22 @@
   id: 306
   title: "Poster Presentation (short)"
   service: true
-  description: "Fifteen students"
+  description: "Session Chair: Prof. Akila"
 -
   id: 305
   title: "Poster Session"
-  # description: "The best time to talk with speakers and attendees"
+  service: true
+  description: "Session chair: Prof. Akila"
 -
   id: 304
   title: "Student Presentation (Oral)"
   service: true
-  description: "Five students selected by the peer-review process"
+  description: "Five students selected by the peer-review process. Session chair: Dr. Musa"
 -
   id: 303
   title: "Award Ceremony"
   service: true
-  description: "Poster/presentation Awards"
+  description: "Poster/presentation Awards. Session chair: Prof. Paik Incheon and Prof. Pham Tuan Anh"
 -
   id: 503
   title: "Lunch Time"
@@ -39,13 +40,13 @@
 -
   id: 001
   title: "Research Trending"
-  # description: "TBD"
+  description: "Sesssion Chair: Prof. Pham Tuan Anh"
   subtype: keynote
   speakers: [1]
 -
   id: 002
   title: "Industry Talk"
-  # description: "TBD"
+  description: "Sesssion Chair: Prof. Pham Tuan Anh"
   subtype: keynote
   speakers: [2]
   # language: en
@@ -55,12 +56,12 @@
 -
   id: 003
   title: "Research Tutorial"
-  # description: "TBD"
+  description: "Sesssion Chair: Prof. RAGE Uday Kiran"
   subtype: keynote
   speakers: [4]
 -
   id: 004
   title: "Job Hunting Experience"
-  # description: "TBD"
+  description: "Sesssion Chair: Prof. RAGE Uday Kiran"
   subtype: keynote
   speakers: [3]

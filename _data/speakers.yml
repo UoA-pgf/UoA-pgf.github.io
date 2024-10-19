@@ -66,14 +66,14 @@ His research interests include multimedia communications, video streaming, multi
   social: 
     - {name: "site", link: "https://giovanniviglietta.com/"}
 -
-  id: 101
-  name: "Prof. Hoang Le"
-  company: "The University of Aizu"
-  # bio: "TBD"
-  thumbnailUrl: no-face.png
--
   id: 102
-  name: "Prof. Paik"
+  name: "Prof. Le Doan Hoang"
   company: "The University of Aizu"
-  # bio: "TBD"
-  thumbnailUrl: no-face.png
+  bio: "Hoang Le is currently an Associate Professor with the School of Computer Science and Engineering at the University of Aizu (UoA), Japan. His research interests are in the areas of optical wireless communications, satellite/vehicular networks, applied AI/ML, and network security-based quantum cryptography. He was a recipient of a number of awards, including the 2018 KICS/IEEE ICTC Best Paper Award, 2019 IEEE VTS Tokyo Chapter Young Researcher Encouragement Award, 2019 IEEE ComSoc Sendai Chapter Student Excellent Research Award, young researcher to participate in the 9th Heidelberg Laureate Forum 2022, 2022 IEEE ICCE Best Paper Award, 2023 ICETC Best Poster Award, 2024 IEICE Comex Top Downloaded Letter, and 2024 IEEE/IET CSNDSP Best Paper Award. Dr. Hoang Le is currently the president of SAISUA of the University of Aizu. He also served as a Chair of the IEEE University of Aizu Student Branch and a committee member of the IEEE Sendai Young Professionals Affinity Group. He is a member of IEEE and IEICE."
+  thumbnailUrl: HoangLe.jpeg
+-
+  id: 101
+  name: "Prof. Paik Incheon"
+  company: "The University of Aizu"
+  bio: "Dr. Incheon Paik received the M.E. and Ph.D. degrees in Electronics Engineering from Korea University in 1987 and 1992, respectively. During 1993-2000, he worked as an associate professor in Soonchunhyang university, Korea. From 1996 to 1998, he was a visiting researcher of State Key Laboratory, Beihang University, Beijing, China. He moved to the University of Aizu  in Japan in 2001, and is a professor in the School of Computer Science and Engineering of the univeristy. Dr. Paik's research interests include Deep Learning Applications in Semantic Web Services, Natural Language Processing, and Web Data together with Big Data Infrastructure and Analytics. He has organized numerous international conferences, and has served as a reviewer or editor of journals of JIPS, IEICE, Hindawi, IEEE. He is a senior member of IEEE, and regular member of IEICE, IEIE, and IPSJ. Also, he was a director of IEIE Japan Branch, an executive committee member of IEEE Sendai section, and served as a chair of IEICE Service Computing Technical Committee."
+  thumbnailUrl: paik_sensei.jpg
